@@ -1,0 +1,40 @@
+Country,Year,Debt,Tax_revenue,GDP_per_capita,GNI_per_capita,Population,Unemployment,Inflation,Interest,Income_Category,Prev_Income,Income_Changed,Changed_To
+albania,2015,72.67007549,26.43999403,3952.803574,4390.0,449298.0,17.193,0.56399135,7.272492422,Lower-middle income,Upper-middle income,True,Lower-middle income
+albania,2017,70.11993307,27.75601551,4531.032207,4290.0,466651.0,13.616,1.450731581,4.701068533,Upper-middle income,Lower-middle income,True,Upper-middle income
+algeria,2020,45.96737493,26.98740521,3743.541952,4020.0,2767661.0,14.057,-4.711383916,13.33987672,Lower-middle income,Upper-middle income,True,Lower-middle income
+algeria,2022,48.08493266,29.73651872,4961.552577,4430.0,2853959.0,12.346,22.95126261,-12.16031645,Upper-middle income,Lower-middle income,True,Upper-middle income
+angola,2015,50.38581995,21.29864439,3213.902611,3920.0,7023206.0,16.49,-3.518385346,21.14418153,Lower-middle income,Upper-middle income,True,Lower-middle income
+argentina,2015,52.56264331,35.36577202,13679.6265,12500.0,14705533.0,7.579,26.5799916,-1.314708785,High income,Upper-middle income,True,High income
+argentina,2016,53.06017955,34.86735169,12699.96231,12130.0,14792181.0,8.085,41.11937999,-7.006039843,Upper-middle income,High income,True,Upper-middle income
+argentina,2017,57.02784192,34.42811289,14532.50093,13070.0,14879100.0,8.347,26.00637928,0.455892832,High income,Upper-middle income,True,High income
+argentina,2018,85.24631042,33.50806281,11752.79989,12390.0,14966530.0,9.22,42.03366896,4.564409099,Upper-middle income,High income,True,Upper-middle income
+argentina,2022,84.46298841,33.87104444,13935.68111,11820.0,15369919.0,6.805,69.87608425,-10.28803887,High income,Upper-middle income,True,High income
+azerbaijan,2016,20.60832562,34.25509852,3880.685228,4790.0,2232526.0,5.0,14.67140025,1.485833836,Lower-middle income,Upper-middle income,True,Lower-middle income
+azerbaijan,2018,18.68538681,38.61193711,4739.794312,4080.0,2285729.0,4.9,12.18487696,4.691769978,Upper-middle income,Lower-middle income,True,Upper-middle income
+azerbaijan,2020,21.32723232,33.71621017,4229.910649,4480.0,2341443.0,7.24,-7.395965827,26.53682128,Lower-middle income,Upper-middle income,True,Lower-middle income
+azerbaijan,2021,26.34877343,36.37296457,5408.045352,4910.0,2370776.0,6.04,21.58882419,-4.246163591,Upper-middle income,Lower-middle income,True,Upper-middle income
+bangladesh,2014,28.68266374,9.129085611,1094.461997,1080.0,16982363.0,4.416,5.668788525,6.885866277,Lower-middle income,Low income,True,Lower-middle income
+benin,2015,30.90022983,12.59972709,1002.418869,1100.0,757922.0,1.82,0.851504261,4.266334386,Low income,Lower-middle income,True,Low income
+benin,2018,41.0803507,13.59107181,1151.74097,1120.0,927545.0,1.41,0.670447614,6.052308163,Lower-middle income,Low income,True,Lower-middle income
+bulgaria,2022,31.23373362,36.88665637,13644.20158,12770.0,1286789.0,4.268,15.91835969,-10.50083989,High income,Upper-middle income,True,High income
+costa rica,2022,63.06791267,16.38288164,13625.90085,13210.0,1441324.0,11.325,6.280385137,1.016618065,High income,Upper-middle income,True,High income
+guatemala,2017,25.1537883,11.3933665,4324.996079,3980.0,2813016.0,2.462,1.747914109,11.11202392,Upper-middle income,Lower-middle income,True,Upper-middle income
+hungary,2015,73.76669491,48.37570616,12717.0386,13230.0,1745894.0,6.813,2.775741908,0.123325583,Upper-middle income,High income,True,Upper-middle income
+hungary,2017,71.36369806,44.25864888,14621.2396,13180.0,1754955.0,4.156,4.029705051,-2.449840292,High income,Upper-middle income,True,High income
+indonesia,2021,40.69606723,13.71885159,4287.17314,4130.0,10915364.0,3.827,6.003973221,2.75322395,Upper-middle income,Lower-middle income,True,Upper-middle income
+jordan,2014,75.01317056,27.10312855,4191.180501,3980.0,1698026.0,11.9,3.445323563,5.360006858,Lower-middle income,Upper-middle income,True,Lower-middle income
+jordan,2022,93.0274276,25.68293854,4332.251599,4370.0,2209584.0,18.2,2.616072186,4.631108018,Upper-middle income,Lower-middle income,True,Upper-middle income
+mexico,2023,39.97167088,24.36035604,13790.02434,11980.0,22281442.0,2.765,4.459913676,6.827262956,High income,Upper-middle income,True,High income
+moldova,2019,25.4510312,30.51990102,4405.334182,4490.0,504342.0,1.466,5.351712003,2.75105923,Upper-middle income,Lower-middle income,True,Upper-middle income
+mongolia,2014,43.9627848,28.41817232,4126.239758,4180.0,1316169.0,4.798,7.448836595,10.77405246,Lower-middle income,Upper-middle income,True,Lower-middle income
+mongolia,2019,62.47516631,31.82178779,4347.546103,3800.0,1552654.0,9.269,9.972213257,6.387440867,Upper-middle income,Lower-middle income,True,Upper-middle income
+mongolia,2020,75.17882216,27.88389507,4001.251931,3690.0,1584358.0,6.594,3.70672177,12.75125152,Lower-middle income,Upper-middle income,True,Lower-middle income
+mongolia,2021,61.28491802,32.84623628,4517.61578,3690.0,1615094.0,7.747,14.42006548,1.386729673,Upper-middle income,Lower-middle income,True,Upper-middle income
+namibia,2020,64.29672368,33.40660141,3878.58983,4240.0,431171.0,21.004,4.631530615,3.0938071,Lower-middle income,Upper-middle income,True,Lower-middle income
+namibia,2021,69.60293682,30.57941392,4412.835569,4140.0,445745.0,20.922,1.53433033,5.245250522,Upper-middle income,Lower-middle income,True,Upper-middle income
+namibia,2023,66.14487597,33.72154492,4168.285211,4280.0,477267.0,19.365,6.413624393,4.241104375,Lower-middle income,Upper-middle income,True,Lower-middle income
+romania,2021,48.91565801,30.41990909,14986.78549,14220.0,1794248.0,5.59,5.610255099,0.003071632,High income,Upper-middle income,True,High income
+russian federation,2015,14.14899884,31.88702711,9277.713867,11740.0,12049135.0,5.615,7.249735907,7.894593575,Upper-middle income,High income,True,Upper-middle income
+sri lanka,2017,72.26027871,12.78599578,4401.05567,4230.0,593517.0,4.046,5.472845295,5.780781478,Upper-middle income,Lower-middle income,True,Upper-middle income
+sri lanka,2019,82.59402771,11.9339529,4082.694049,4220.0,606158.0,4.67,3.870527612,7.098875133,Lower-middle income,Upper-middle income,True,Lower-middle income
+ukraine,2021,49.02095196,36.51597468,4775.945801,4060.0,3000604.0,9.834,24.80475677,-9.224526961,Upper-middle income,Lower-middle income,True,Upper-middle income
